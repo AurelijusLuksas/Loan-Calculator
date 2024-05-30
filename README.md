@@ -8,3 +8,6 @@ Simplify your mortgage calculations with this free app! Instantly compute your m
 ## Technologies
 * Android Studio
 * Java
+
+## Visuals
+![](graph.jpg)
